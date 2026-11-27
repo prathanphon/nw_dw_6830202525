@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: northwind_raw
+    schema: raw
+    tables:
+      - name: suppliers
